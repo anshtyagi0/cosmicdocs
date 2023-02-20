@@ -16,10 +16,10 @@
 # Contact Us
 In order to resolve a complaint regarding the Bot or to receive further information regarding use of the Bot, please contact us at:
 
-Ansh Tyagi
-25, Makanpur
-Nyay Khand 1, Indirapuram
-Ghaziabad, Uttar Pradesh - 201014
+Ansh Tyagi<br>
+25, Makanpur<br>
+Nyay Khand 1, Indirapuram<br>
+Ghaziabad, Uttar Pradesh - 201014<br>
 India (IN)
 
 Email: tyagiansh175@gmail.com
